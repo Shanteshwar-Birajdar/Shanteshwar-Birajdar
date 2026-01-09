@@ -1,5 +1,1 @@
-Fresher Full Stack Developer with hands-on experience in building responsive web applications using Angular, TypeScript, JavaScript, HTML, and CSS.
-Completed a Full Stack internship and worked on an E-commerce application, contributing to UI development, product listing, Reactive Forms, and Angular Material.
-Experienced in RESTful API integration, backend development using Node.js and Express.js, and JWT-based authentication.
-Skilled in MongoDB data management, RxJS for asynchronous operations, and Git/GitHub version control.
-Actively seeking an entry-level Full Stack / MEAN Stack Developer role.
+Angular Developer with hands-on experience in developing web applications using Angular, TypeScript, HTML, CSS, and JavaScript. Knowledge of building RESTful APIs using Node.js and Express.js, integrating MongoDB for database operations, and implementing JWT-based authentication. Experienced in creating responsive UI with Angular Material and Bootstrap, and integrating frontend applications with backend services.
